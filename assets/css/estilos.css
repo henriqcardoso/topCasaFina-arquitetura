@@ -9,3 +9,18 @@
     color:#FFF;
     margin-bottom: 0;
 }
+
+.contato-select, 
+.grupo-radio { 
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.contato-select {
+    float: right;
+}
+
+.grupo-radio .radio:first-child {
+    margin-top: 0;
+}
